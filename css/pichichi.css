@@ -1278,7 +1278,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
    ========================================================================== */
 
 ul {
-    shadow-border: 10px;
+   box-shadow: 10px;
 }
 
 
