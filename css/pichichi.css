@@ -727,7 +727,7 @@ body {
 #map {
 	float: left;
 	height: 425px;
-	width: 350px;
+	width: 425px;
 	margin-top: 83px;
 	margin-left: 150px;
 	line-height: 32px;
@@ -920,7 +920,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	margin-top: 83px;
 	margin-left: 90px;
 	line-height: 32px;
-	background-image: url('../images/map.png');	
+	background-image: url('../images/map.jpeg');	
 }
 	
 }
