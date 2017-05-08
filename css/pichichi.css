@@ -589,7 +589,7 @@ body {
 }
 
 .cbp-af-header nav {
-	float: left;
+	float: left
 }
 
 .cbp-af-header nav a {
@@ -1277,6 +1277,9 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
    Author's custom styles
    ========================================================================== */
 
+ul {
+    shadow-border: 10px;
+}
 
 
 
