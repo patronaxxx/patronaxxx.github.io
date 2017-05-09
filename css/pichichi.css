@@ -722,13 +722,14 @@ body {
 
 
 #contact {
-	line-height: 32px;
+	line-height: 35px;
 	height: 500px;
 	padding-top: 83px;
 	margin-bottom: 70px;
-	padding-left: 13%;
+	padding-left: 9%;
 	background:url(../images/title.jpg) no-repeat center center fixed;
 	float: left;
+	color: aqua;
 }
 
 
