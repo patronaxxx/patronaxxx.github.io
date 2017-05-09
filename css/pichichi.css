@@ -618,6 +618,7 @@ body {
 
 .cbp-af-header.cbp-af-header-shrink {
 	height: 90px;
+	background:url(../images/title.jpg) no-repeat center center fixed;
 }
 
 .cbp-af-header.cbp-af-header-shrink h1,
@@ -705,6 +706,7 @@ body {
 	line-height: 32px;
 	text-align: center;
 	height: 570px;
+	color: aqua;
 }
 
 
@@ -724,7 +726,7 @@ body {
 	padding-top: 83px;
 	margin-bottom: 70px;
 	padding-left: 13%;
-	background-color: #F9F9F9;
+	background:url(../images/title.jpg) no-repeat center center fixed;
 	float: left;
 }
 
@@ -736,7 +738,7 @@ body {
 	margin-top: 83px;
 	margin-left: 150px;
 	line-height: 32px;
-	background-image: url('../images/map.png');	
+	background-image: url('../images/map.jpg');	
 }
 
 
@@ -747,7 +749,7 @@ footer {
 	clear: both;
 }
 
-#footersocial li {display: inline-block; font-size: 20px; padding: 5px;}
+#footersocial li {display: inline-block; font-size: 20px; padding: 5px; color: aqua;}
 
 
 /* Responsive grid */
