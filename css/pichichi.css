@@ -126,11 +126,11 @@ a:hover {
 h1 {
     font-size: 2em;
     margin: 0.67em 0;
-    color: black;
 }
     h1 {
+  align-items: center;
   display: inline-block;
-  position: relative;
+  position: absolute;
   letter-spacing: .05em;
   text-shadow: 1px 1px mediumturquoise,
                -1px 1px mediumturquoise,
