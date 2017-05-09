@@ -128,7 +128,7 @@ h1 {
     margin: 0.67em 0;
 }
     h1 {
-  align-items: center;
+  text-align: center;
   display: inline-block;
   position: absolute;
   letter-spacing: .05em;
@@ -794,7 +794,7 @@ footer {
 	color: aqua;
 }
 
-#footersocial li {display: inline-block; font-size: 20px; padding: 5px; color: aqua;}
+#footersocial li {display: inline-block; font-size: 30px; padding: 5px; color: aqua;}
 
 
 /* Responsive grid */
@@ -972,7 +972,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	margin-top: 83px;
 	margin-left: 90px;
 	line-height: 32px;
-	background-image: url('../images/map.jpeg');	
+	background-image: url('../images/map.jpg');	
 }
 	
 }
@@ -1131,7 +1131,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	
 	footer {text-align: center;	margin-bottom: 70px; clear: both;}
 
-	#footersocial li {display: inline-block; font-size: 18px; padding: 23px;}
+	#footersocial li {display: inline-block; font-size: 30px; padding: 23px;}
 	
 	input[type="text"], input[type="password"], input[type="email"], textarea, select {
     border: 1px solid rgb(204, 204, 204);
@@ -1247,7 +1247,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	
 	footer {text-align: center;	margin-bottom: 70px; clear: both;}
 
-	#footersocial li {display: inline-block; font-size: 16px; padding: 23px;}
+	#footersocial li {display: inline-block; font-size: 30px; padding: 23px;}
 	
 	input[type="text"], input[type="password"], input[type="email"], textarea, select {
     border: 1px solid rgb(204, 204, 204);
@@ -1287,9 +1287,6 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
     background: #f16529;
 }
 
-.title {
-    color: white;
-}
 
 /* ==============
     MOBILE: Menu
@@ -1315,7 +1312,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 
 .footer-container footer {
     color: white;
-    padding: 20px 0;
+    padding: 20px;
 }
 
 /* ===============
@@ -1331,7 +1328,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
    ========================================================================== */
 
 ul {
-   box-shadow: 10px;
+   box-shadow: 20px;
 }
 
 
