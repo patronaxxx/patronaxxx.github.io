@@ -748,6 +748,7 @@ footer {
 	text-align: center;
 	margin-bottom: 70px;
 	clear: both;
+	color: aqua;
 }
 
 #footersocial li {display: inline-block; font-size: 20px; padding: 5px; color: aqua;}
