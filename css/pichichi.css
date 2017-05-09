@@ -725,7 +725,7 @@ body {
 	position:relative;
 	border-bottom: 2px solid #EEE;
 	border-top: 2px solid #EEE;
-	background:url(../images/title.jpg) no-repeat center center fixed;
+	background:url(../images/title.jpg) center fixed;
 	height: 600px;
 }
 
