@@ -136,7 +136,7 @@ h1 {
                6px 6px 0 hsl(45,100%,55%),
                7px 7px 0 hsl(55,100%,60%),
                8px 8px 0 hsl(55,100%,65%);
-  color: hsl(0,100%,40%);
+  color: hsl(0,80%,30%);
   transition: all 1s;
   }
   h1:hover {
