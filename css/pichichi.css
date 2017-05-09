@@ -716,7 +716,7 @@ body {
 	position:relative;
 	border-bottom: 2px solid #EEE;
 	border-top: 2px solid #EEE;
-	background-color: #F9F9F9;
+	background:url(../images/title.jpg) no-repeat center center fixed;
 	height: 600px;
 }
 
