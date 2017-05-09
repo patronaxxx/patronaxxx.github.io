@@ -555,7 +555,7 @@ body {
 	width: 100%;
 	top: 0px;
 	left: 0px;
-	background: silver;
+	background:url(../images/title.jpg) no-repeat center center fixed;
 	z-index: 10000;
 	height: 150px;
 	overflow: hidden;
