@@ -4,6 +4,12 @@
 
  
  /********* Canvas*************/
+ul{
+	display: flex;
+	justify-content:center;
+}
+
+
  body
  {
     background:url(../images/bg2.jpg) no-repeat center center fixed;
