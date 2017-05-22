@@ -1216,7 +1216,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea, selec
 	
 	footer {text-align: center;	margin-bottom: 70px; clear: both;}
 
-	#footersocial li {display: inline-block; font-size: 30px; padding: 23px;}
+	#footersocial li {display: block; font-size: 30px; padding: 23px;}
 	
 	input[type="text"], input[type="password"], input[type="email"], textarea, select {
     border: 1px solid rgb(204, 204, 204);
