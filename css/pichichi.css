@@ -768,9 +768,11 @@ footer {
 
 
 .cbp-rfgrid {
+    display:flex;
+    justify-content: center;
     margin: 35px 0 0 0;
     padding-left: 70px;
-	padding-right: 70px;
+    padding-right: 70px;
     list-style: none;
     position: relative;
     /*width: 100%;*/
