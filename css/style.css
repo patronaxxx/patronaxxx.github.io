@@ -86,14 +86,6 @@ body {
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-.portfolio-box img {
-    width: 100%;
-    transition: transform 0.3s ease-in-out;
-}
-
-.portfolio-box:hover img {
-    transform: scale(1.1);
-}
 
 .portfolio-box a {
     position: absolute;
@@ -193,3 +185,4 @@ footer {
         font-size: 2.5rem;
     }
 }
+
