@@ -1,0 +1,6 @@
+{
+  "name": "PATRONAXXX AI — Загадки Человечества",
+  "description": "Официальный интерактивный портал YouTube-канала PATRONAXXX AI. Мир тайн, невероятных открытий, фактов и необъяснимых явлений, которые перевернут представление о реальности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
